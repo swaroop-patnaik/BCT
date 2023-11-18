@@ -1,0 +1,5 @@
+-a or --accounts: Specify the number of accounts to generate at startup.
+-b or --blocktime: Specify blocktime in seconds for automatic mining. Default is 0 and no auto-mining.
+-d or --deterministic: Generate deterministic addresses based on a pre-defined mnemonic.
+-g or --gasPrice: Use a custom Gas Price (defaults to 20000000000)
+-l or --gasLimit: Use a custom Gas Limit (defaults to 90000)
